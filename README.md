@@ -2,9 +2,9 @@
   SCALE UP!
 </h1>
 
-<img src="pic1.jpg">
-<img src="pic2.jpg">
-<img src="pic3.jpg">
-<img src="pic4.jpg">
-<img src="pic5.jpg">
-<img src="pic6.jpg">
+<img src="pic1.png">
+<img src="pic2.png">
+<img src="pic3.png">
+<img src="pic4.png">
+<img src="pic5.png">
+<img src="pic6.png">
