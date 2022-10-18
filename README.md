@@ -8,3 +8,5 @@
 <img src="pic4.png">
 <img src="pic5.png">
 <img src="pic6.png">
+<img src="pic7.png">
+<img src="pic8.png">
