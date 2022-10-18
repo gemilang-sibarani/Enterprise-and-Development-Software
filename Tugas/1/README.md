@@ -1,7 +1,6 @@
 <h1>
   ODOO
 </h1>
-<hr>
 <h3>
   SCALE-UP!
 </h3>
